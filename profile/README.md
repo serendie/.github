@@ -15,6 +15,5 @@
 ## Contact
 
 - 🐦️ **X** [@SerendieDesign](https://x.com/SerendieDesign)
-- 🐞 **Bug Reports** [GitHub Issues](https://github.com/serendie/serendie/issues)
 - 🤝 **Discussions (private)** [GitHub Discussions](https://github.com/orgs/serendie/discussions)
 - 💬 **Chatting (private)** [MS Teams](https://teams.microsoft.com/l/team/19%3ACZhxe0gHUo7G0d2KHtfTzPxauxH3lK_4WruQVWRWLFA1%40thread.tacv2/conversations?groupId=64fe7805-7354-4722-8e08-ae2b4ae60f20&tenantId=c5a75b62-4bff-4c96-a720-6621ce9978e5)
