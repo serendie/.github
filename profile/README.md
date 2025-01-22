@@ -1,7 +1,5 @@
 <img src="https://github.com/serendie/.github/blob/main/profile/kv.png" alt="sds key visual" width='100%' max-width='1200px'/>   
 
-**Serendie Design System**は、多様な事業と人々をつなぎ、新たな価値を生み出すための三菱電機によるオープンソースデザインシステムです。
-
 ## Main Repositories
 
 - 📐 **React Components & Design Tokens** [serendie/serendie](https://github.com/serendie/serendie)
