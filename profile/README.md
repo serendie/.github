@@ -1,4 +1,6 @@
-<img src="https://github.com/serendie/.github/blob/main/profile/kv.png" alt="sds key visual" width='100%' max-width='1200px'/>   
+<div align='center'>
+<img src="https://github.com/serendie/.github/blob/main/profile/kv.png" alt="sds key visual" width='400px'/>   
+</div>
 
 ## Main Repositories
 
