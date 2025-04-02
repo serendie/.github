@@ -4,7 +4,8 @@
 
 ## Main Repositories
 
-- 📐 **React Components & Design Tokens** [serendie/serendie](https://github.com/serendie/serendie)
+- 🧱 **React Components** [serendie/serendie](https://github.com/serendie/serendie)
+- 📐 **Design Tokens** [serendie/design-token](https://github.com/serendie/design-token)
 - 🖼️ **Icons** [serendie/serendie-symbols](https://github.com/serendie/serendie-symbols)
 - 🧰 **Import/Export Figma Variables** [serendie/figma-utils](https://github.com/serendie/figma-utils)
    
