@@ -15,7 +15,7 @@ jobs:
       packages: write
       pull-requests: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
           ref: main
@@ -39,7 +39,7 @@ jobs:
       - name: Release
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        run: npm run release --ci --increment $RELEASE_TYPE
+        run: npm run release -- --ci --increment "$RELEASE_TYPE"
       - name: make pull-request to ready
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
